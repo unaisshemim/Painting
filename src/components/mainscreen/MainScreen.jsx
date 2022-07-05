@@ -56,17 +56,17 @@ const data={
           <div className="buttons">
             <div className="main_button">
 
-            <button>See class Schedule <ArrowForwardIosIcon/></button>
+            <button type="submit">See class Schedule <ArrowForwardIosIcon/></button>
             </div>
 
           <div className="sub_button">
             <div className="save">
               
-              <button><FavoriteBorderIcon/> save </button>
+              <button type="submit"><FavoriteBorderIcon/> save </button>
             </div>
             <div className="share">
            
-              <button><RedoIcon/>share</button>
+              <button type="submit"><RedoIcon/>share</button>
             </div>
           </div>
           </div>
